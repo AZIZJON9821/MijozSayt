@@ -1,0 +1,56 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "title": "Hushkordik",
+    "typing": ["Fullstack Developer", "Telegram Bot Expert", "UI/UX Designer"],
+    "cta": "Start Project"
+  },
+  "Features": {
+    "webTitle": "PREMIUM WEB SITES",
+    "webSubtitle": "FULLSTACK DEVELOPMENT",
+    "webDesc": "We create high-quality, fast, and modern websites using Next.js and the latest technologies. User-friendly interface and ultra-premium design.",
+    "botTitle": "COMPLEX BOTS",
+    "botSubtitle": "TELEGRAM EXPERT",
+    "botDesc": "Telegram bots of any complexity to automate your business. Integration of payment systems, admin panels, and artificial intelligence.",
+    "apiTitle": "BACKEND & API",
+    "apiSubtitle": "SYSTEM ARCHITECTURE",
+    "apiDesc": "Robust and secure backend systems, complex API integrations, and database management. Architecture resistant to high loads.",
+    "orderBtn": "Place Order"
+  },
+  "About": {
+    "title": "About Me",
+    "description": "I am a developer specializing in creating modern web technologies and complex Telegram bots. I approach each project with premium design and high efficiency.",
+    "web": "Websites",
+    "bots": "Telegram bots",
+    "api": "API systems"
+  },
+  "Services": {
+    "title": "Services",
+    "webDev": "Web Development",
+    "webDevDesc": "Fast and modern sites using Next.js and TailwindCSS.",
+    "tgBots": "Telegram Bots",
+    "tgBotsDesc": "Automated bots of any complexity.",
+    "apiSystems": "Backend & API",
+    "apiSystemsDesc": "Development of robust and secure backend systems."
+  },
+  "Portfolio": {
+    "title": "My Works"
+  },
+  "Order": {
+    "title": "Place Order",
+    "name": "Your name",
+    "phone": "Your phone",
+    "description": "Project description",
+    "budget": "Your budget (approximate)",
+    "submit": "Submit",
+    "sending": "Sending...",
+    "success": "Sent successfully!",
+    "error": "An error occurred. Please try again."
+  }
+}

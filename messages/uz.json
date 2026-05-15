@@ -1,0 +1,56 @@
+{
+  "Navbar": {
+    "home": "Asosiy",
+    "about": "Men haqimda",
+    "services": "Xizmatlar",
+    "portfolio": "Portfolio",
+    "contact": "Bog'lanish"
+  },
+  "Hero": {
+    "title": "Hushkordik",
+    "typing": ["Fullstack Developer", "Telegram Bot Expert", "UI/UX Designer"],
+    "cta": "Loyiha boshlash"
+  },
+  "Features": {
+    "webTitle": "PREMIUM WEB SAYTLAR",
+    "webSubtitle": "FULLSTACK DEVELOPMENT",
+    "webDesc": "Next.js va eng so'nggi texnologiyalar yordamida yuqori sifatli, tezkor va zamonaviy web-saytlar yaratamiz. Foydalanuvchilar uchun qulay interfeys va o'ta premium dizayn.",
+    "botTitle": "MURAKKAB BOTLAR",
+    "botSubtitle": "TELEGRAM EXPERT",
+    "botDesc": "Sizning biznesingizni avtomatlashtiruvchi, har qanday murakkablikdagi Telegram botlar. To'lov tizimlari, admin panellar va sun'iy intellekt integratsiyasi bilan.",
+    "apiTitle": "BACKEND & API",
+    "apiSubtitle": "SYSTEM ARCHITECTURE",
+    "apiDesc": "Mustahkam va xavfsiz backend tizimlari, murakkab API integratsiyalari va ma'lumotlar bazasi bilan ishlash. Yuqori yuklamalarga chidamli arxitektura.",
+    "orderBtn": "Buyurtma berish"
+  },
+  "About": {
+    "title": "Men haqimda",
+    "description": "Men zamonaviy web texnologiyalar va murakkab Telegram botlar yaratishga ixtisoslashgan dasturchiman. Har bir loyihaga premium darajadagi dizayn va yuqori samaradorlik bilan yondashaman.",
+    "web": "Web saytlar",
+    "bots": "Telegram botlar",
+    "api": "API tizimlari"
+  },
+  "Services": {
+    "title": "Xizmatlar",
+    "webDev": "Web Saytlar",
+    "webDevDesc": "Next.js va TailwindCSS yordamida tezkor va zamonaviy saytlar.",
+    "tgBots": "Telegram Botlar",
+    "tgBotsDesc": "Har qanday murakkablikdagi avtomatlashtirilgan botlar.",
+    "apiSystems": "Backend & API",
+    "apiSystemsDesc": "Mustahkam va xavfsiz backend tizimlariu ishlab chiqish."
+  },
+  "Portfolio": {
+    "title": "Mening ishlarim"
+  },
+  "Order": {
+    "title": "Buyurtma berish",
+    "name": "Ismingiz",
+    "phone": "Telefon raqamingiz",
+    "description": "Loyiha tavsifi",
+    "budget": "Byudjetingiz (taxminan)",
+    "submit": "Yuborish",
+    "sending": "Yuborilmoqda...",
+    "success": "Muvaffaqiyatli yuborildi!",
+    "error": "Xatolik yuz berdi. Qayta urinib ko'ring."
+  }
+}
